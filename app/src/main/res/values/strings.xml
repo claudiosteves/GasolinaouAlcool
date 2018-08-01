@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gasolina ou Alcool</string>
+    <string name="textView">Faça o cálculo e economize!</string>
+    <string name="editAlcool">Valor do Alcool</string>
+    <string name="editGasolina">Valor da Gasolina</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="textResultado">Resultado</string>
+    <string name="textDescricao">Descrição</string>
+</resources>

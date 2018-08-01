@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="telaResultado" type="id">Resultado</item>
+    <item name="telaDescricao" type="id">Descrição</item>
+</resources>
